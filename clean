@@ -1,0 +1,5 @@
+make clean
+make distclean
+make mrproper
+rm -rf out/
+
